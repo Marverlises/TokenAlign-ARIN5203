@@ -51,9 +51,7 @@ git clone https://github.com/yourusername/TokenAlign.git
 cd TokenAlign
 ```
 
-2. **Set up environment** (see [Environment Setup](#-environment-setup) section below for details)
-
-3. **Install dependencies**
+2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
@@ -136,7 +134,6 @@ If you find this work useful, please cite:
 @inproceedings{tokenalign2026,
   title={TokenAlign: Rethinking Text-Audio Retrieval with Fine-grained Token-level Correspondence},
   author={Bai, Yu and Chen, Chuxi},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2026}
 }
 ```
